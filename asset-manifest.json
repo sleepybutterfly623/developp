@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/developp/static/css/main.acde50c3.css",
+    "main.js": "/developp/static/js/main.df83e69f.js",
+    "static/media/cafe-logo.png": "/developp/static/media/cafe-logo.ecdb5e9d5f8c4918a6ca.png",
+    "index.html": "/developp/index.html",
+    "main.acde50c3.css.map": "/developp/static/css/main.acde50c3.css.map",
+    "main.df83e69f.js.map": "/developp/static/js/main.df83e69f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acde50c3.css",
+    "static/js/main.df83e69f.js"
+  ]
+}
