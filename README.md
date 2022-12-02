@@ -1,7 +1,9 @@
 # Development
 
+**For best experience, please be on 90% zoom or zoom out once! Thank you!!**
+
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+If you used the stencil code, this is https://sleepybutterfly623.github.io/developp/
 
 ### Goal and Value of the Application
 For this project, I wanted to create a site for a cafe where the user could order online. To be mindful of the various types of customers, this site enables the user to sort by popular items and by price (from lowest to highest). From these choices, the user could also filter the items based on what type of product they'd like to choose from and dietary restrictions if they have any. Working simulataneously, the user is able to visually see and read the cafe's products and add these to their cart and remove them if they no longer wanted to order it. Finally, the user can see the cart's total. 
